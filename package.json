@@ -20,5 +20,10 @@
         "vite": "^5.0.0",
         "vue": "^3.2.31",
         "vue-tsc": "^1.8.27"
+    },
+    "dependencies": {
+        "apexcharts": "^3.45.2",
+        "chroma-js": "^2.4.2",
+        "vue3-apexcharts": "^1.4.4"
     }
 }
